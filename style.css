@@ -1,0 +1,43 @@
+
+
+body {
+
+	font-family: arial;
+	font-size: 18px;
+	color: #1951ab;
+
+}
+
+
+table {
+
+	border-color: #c2c2c2;
+	bgcolor: #f0f8ff;
+
+} 
+
+
+.texto1 { 
+
+	color: #191970;
+	font-size: 36pt;
+	font-family: verdana;
+} 
+
+.texto2 { 
+	font-size: 11pt;
+	text-align: right;
+}
+
+.text3 { 
+
+	font-size: 15pt;
+	width: 48%;
+} 
+
+.text3 { 
+
+	font-size: 13pt;
+	width: 48%;
+} 
+
