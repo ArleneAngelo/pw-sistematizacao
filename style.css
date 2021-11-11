@@ -19,8 +19,9 @@ h1 {
 .text01 { 
 
 	width: 48%;
+	font-face: verdana;
 	color: 191970;
-	font-size: 100;
+	font-size:2.5em;
 } 
 .text2 { 
 
